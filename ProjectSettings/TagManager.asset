@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Spikes
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Diggable
+  - Ground
+  - Platform
+  - Falling
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundTiles
+    uniqueID: 2933933079
+    locked: 0
+  - name: Background
+    uniqueID: 650232895
+    locked: 0
+  - name: Midground
+    uniqueID: 4267479323
+    locked: 0
+  - name: Forground
+    uniqueID: 567121565
+    locked: 0
+  - name: ForeForeground
+    uniqueID: 1865512151
+    locked: 0
